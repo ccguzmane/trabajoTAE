@@ -1,0 +1,333 @@
+;NOMBRE;grupo
+0;U.P.B;5
+1;Cerro Nutibara;8
+2;Mirador del Doce;2
+3;El Nogal-Los Almendros;8
+4;El Triunfo;6
+5;Enciso;5
+6;La Esperanza;5
+7;Las Estancias;8
+8;Pablo VI;5
+9;Ecoparque Cerro El Volador;6
+10;Versalles No.1;8
+11;Altos del Poblado;5
+12;Universidad Nacional;8
+13;El Diamante;8
+14;Palenque;5
+15;Barrio Colombia;8
+16;Rosales;8
+17;Urquita;
+18;Potrera Miserenga;
+19;Campo Amor;8
+20;La Aguacatala;8
+21;El Pinal;5
+22;Fuente Clara;5
+23;Santo Domingo Savio No.2;6
+24;Las Granjas;8
+25;Barrios de Jes«ßs;5
+26;La Alpujarra;8
+27;Coraz«¸n de Jes«ßs;8
+28;Buenos Aires;5
+29;Toscana;8
+30;Los Pinos;8
+31;Gerona;8
+32;Santa Teresita;8
+33;Francisco Antonio Zea;5
+34;La Mota;5
+35;La Hondonada;5
+36;LLanaditas;2
+37;Nuevos Conquistadores;5
+38;La Am«∏rica;8
+39;Loreto;5
+40;Picachito;2
+41;Miranda;8
+42;U.D. Atanasio Girardot;8
+43;Patio Bonito;5
+44;Manrique Oriental;8
+45;La Esperanza No.2;5
+46;Pedregal;5
+47;Prado;5
+48;El Diamante No.2;8
+49;Nueva Villa del Aburr«≠;8
+50;Villa del Socorro;5
+51;Trece de Noviembre;6
+52;Doce de Octubre No.1;5
+53;La Loma de Los Bernal;5
+54;Juan Pablo II;6
+55;Villa Flora;8
+56;Tenche;8
+57;F«≠tima;8
+58;Oleoducto;5
+59;Boyac«≠;8
+60;Aldea Pablo VI;8
+61;Villa Hermosa;5
+62;Las Lomas No.1;5
+63;Santa Cruz;8
+64;Betania;5
+65;Kennedy;8
+66;Santa F«∏;8
+67;Terminal de Transporte;8
+68;Facultad de Minas;5
+69;La Rosa;8
+70;El Tesoro;8
+71;Monteclaro;5
+72;La Mansi«¸n;8
+73;La Florida;8
+74;Diego Echavarr«a;5
+75;Los Alc«≠zares;8
+76;Campo Vald«∏s No.1;8
+77;Alfonso L«¸pez;5
+78;Olaya Herrera;8
+79;Facultad Veterinaria y Zootecnia U.de.A.;5
+80;Astorga;8
+81;Caribe;8
+82;Aranjuez;5
+83;Manrique Central No.2;5
+84;San Antonio;2
+85;El Rinc«¸n;5
+86;Sin Nombre;3
+87;Calasanz;6
+88;Bermejal-Los Alamos;8
+89;Jes«ßs Nazareno;8
+90;Ocho de Marzo;6
+91;Belencito;6
+92;Cerro Nutibara;8
+93;Sim«¸n Bol«var;8
+94;Cucaracho;8
+95;Universidad de Antioquia;5
+96;San Javier No.2;5
+97;Brasilia;5
+98;Bolivariana;8
+99;Berlin;5
+100;El Vel«¸dromo;5
+101;Santa M«¸nica;8
+102;Bel«∏n;5
+103;El Pomar;8
+104;Oriente;2
+105;La Isla;5
+106;La Sierra;6
+107;Mar«a Cano-Carambolas;5
+108;La Pilarica;8
+109;El Coraz«¸n;8
+110;Calle Nueva;8
+111;La Frontera;8
+112;Tejelo;5
+113;Lorena;8
+114;La Francia;6
+115;Plaza de Ferias;8
+116;Miraflores;5
+117;Los «Ångeles;8
+118;Alejandr«a;8
+119;Metropolitano;2
+120;Cuarta Brigada;5
+121;Las Acacias;8
+122;Los Naranjos;5
+123;Aures No.1;5
+124;Catalu«Òa;5
+125;Sin Nombre;3
+126;Carpinelo;5
+127;Andaluc«a;8
+128;La Castellana;6
+129;Moravia;8
+130;San Benito;8
+131;Carlos E. Restrepo;8
+132;Robledo;5
+133;Juan XXIII La Quiebra;5
+134;Veinte de Julio;8
+135;Altamira;8
+136;Hospital San Vicente de Pa«ßl;5
+137;Las Lomas No.2;5
+138;Tricentenario;8
+139;Villa Niza;8
+140;Laureles;8
+141;Santa Rosa de Lima;2
+142;Santa Luc«a;8
+143;La Floresta;5
+144;Las Mercedes;8
+145;Boston;5
+146;Nueva Villa de La Iguan«≠;8
+147;Alejandro Echavarr«a;5
+148;Picacho;5
+149;Mosc«ß No.2;8
+150;Santo Domingo Savio No.1;8
+151;El Danubio;5
+152;La Avanzada;6
+153;Perpetuo Socorro;8
+154;San Lucas;8
+155;Media Luna;1
+156;Barro Blanco;6
+157;Piedra Gorda;6
+158;San Pablo;8
+159;Calasanz Parte Alta;5
+160;Aguas Frias;2
+161;Play«¸n de Los Comuneros;5
+162;El Chagualo;8
+163;Cristo Rey;8
+164;Los Conquistadores;8
+165;Asomadera No.3;5
+166;La Gloria;8
+167;El Pesebre;5
+168;Lalinde;8
+169;Manrique Central No.1;8
+170;Las Independencias;2
+171;Parque Juan Pablo II;5
+172;Mosc«ß No.1;5
+173;Bosques de San Pablo;5
+174;Los Mangos;5
+175;Los Cerros El Vergel;5
+176;Miravalle;5
+177;El Rodeo;8
+178;La Milagrosa;5
+179;El Castillo;8
+180;San Jos«∏ La Cima No.1;1
+181;El Raizal;8
+182;Villa Guadalupe;8
+183;El Poblado;8
+184;Trinidad;8
+185;La Palma;5
+186;Naranjal;8
+187;Doce de Octubre No.2;5
+188;Granizal;5
+189;San Bernardo;5
+190;El Salvador;8
+191;Sevilla;8
+192;Santa In«∏s;8
+193;El Progreso;8
+194;Castropol;8
+195;Belalc«≠zar;8
+196;Guayaquil;8
+197;El Placer;
+198;Altavista Sectro Central;2
+199;El Salado;5
+200;Las Palmas;8
+201;Buga Patio Bonito;8
+202;La Esperanza;5
+203;Santa Elena Sector Central;7
+204;El Plan;4
+205;El Jard«n;
+206;El LLano SE;2
+207;La Verde;5
+208;El Cerro;
+209;Monta«Òita;
+210;San Antonio de Prado;6
+211;La Florida;8
+212;San Jos«∏;
+213;Palmitas Sector Central;3
+214;Boquer«¸n;
+215;El Carmelo;
+216;«Årea de Expansi«¸n El Noral;
+217;Las Violetas;5
+218;Santa Mar«a de Los «Ångeles;8
+219;La Pradera;8
+220;San Diego;8
+221;El Salado;5
+222;Bello Horizonte;5
+223;Villa Nueva;5
+224;Batall«¸n Cuarta Brigada;
+225;Los Balsos No.1;8
+226;Villa Carlota;8
+227;El Compromiso;8
+228;Pajarito;5
+229;La Libertad;5
+230;San Mart«n de Porres;8
+231;Las Brisas;5
+232;Villa Lilliam;5
+233;Santander;5
+234;Las Playas;5
+235;San Pablo;8
+236;Las Esmeraldas;8
+237;San Miguel;8
+238;Barrio Caycedo;5
+239;B. Cerro El Volador;6
+240;Santa Margarita;8
+241;Suramericana;8
+242;San Pedro;8
+243;Villa Turbay;6
+244;Eduardo Santos;6
+245;Asomadera No.1;5
+246;Bombon«≠ No.2;8
+247;Popular;8
+248;La Cruz;8
+249;San Germ«≠n;8
+250;Progreso No.2;6
+251;Las Palmas;8
+252;Barrio Crist«¸bal;5
+253;Girardot;5
+254;Los Balsos No.2;6
+255;Los Colores;5
+256;Palermo;5
+257;San Joaqu«n;5
+258;La Candelaria;8
+259;Manila;5
+260;Batall«¸n Girardot;6
+261;Villatina;5
+262;Barrio Col«¸n;8
+263;Jard«n Bot«≠nico;8
+264;San Isidro;5
+265;San Jos«∏ La Cima No.2;6
+266;Antonio Nari«Òo;5
+267;Ferrini;8
+268;La Ilusi«¸n;
+269;C«¸rdoba;5
+270;Estaci«¸n Villa;8
+271;Florencia;5
+272;Cementerio Universal;6
+273;Aures No.2;5
+274;Blanquizal;8
+275;La Ladera;5
+276;Asomadera No.2;5
+277;Parque Norte;6
+278;Sucre;8
+279;La Palma;5
+280;El Astillero;
+281;Potrerito;2
+282;«Årea de Expansi«¸n Pajarito;5
+283;«Årea de Expansi«¸n San Antonio de Prado;6
+284;La Loma;5
+285;Yarumalito;
+286;Mazo;
+287;El Coraz«¸n El Morro;6
+288;La Salle;8
+289;La pi«Òuela;5
+290;Lopez de  Mesa;
+291;Yolombo;6
+292;El Picacho;5
+293;La Cuchilla;
+294;El LLano;2
+295;La Colina;8
+296;San Javier No.1;8
+297;H«∏ctor Abad G«¸mez;8
+298;Castilla;5
+299;Florida Nueva;8
+300;Estadio;8
+301;El Socorro;2
+302;Versalles No.2;6
+303;Bombon«≠ No.1;8
+304;Centro Administrativo;8
+305;Campo Vald«∏s No.2;8
+306;Granada;8
+307;Los Alpes;5
+308;Facultad de Minas U. Nacional;8
+309;Campo Alegre;5
+310;Altavista;2
+311;La Sucia;
+312;La Aldea;
+313;La Frisola;
+314;Volcana Guayabal;3
+315;La Suiza;
+316;San Jos«∏ de La Monta«Òa;7
+317;Naranjal;8
+318;Piedras Blancas - Matasano;5
+319;Pajarito;5
+320;El Uvito;3
+321;Traves«as;4
+322;Pedregal Alto;8
+323;El Patio;
+324;Las Playas;5
+325;«Årea de Expansi«¸n San Crist«¸bal;8
+326;Eduardo Santos;6
+327;«Årea de Expansi«¸n Altavista;2
+328;«Årea de Expansi«¸n Bel«∏n Rinc«¸n;2
+329;Cabecera Urbana Corregimiento San Crist«¸bal;8
+330;San Jos«∏ del Manzanillo;
+331;Guayabal;8

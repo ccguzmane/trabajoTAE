@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561304093112.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1028150674",
+    "id" : "818E65B",
+    "lastKnownWriteTime" : 1561355725,
+    "last_content_update" : 1561355725418,
+    "path" : "~/Estadistica 1/accidentalidad-web/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "9,16",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
