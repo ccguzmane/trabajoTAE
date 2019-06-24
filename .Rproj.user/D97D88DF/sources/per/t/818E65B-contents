@@ -44,6 +44,5 @@ shinyServer(function(input, output, session){
     colnames(tbl) <- c("BARRIO","GRUPO")
     return(tbl)
   })
-  
 }
 )
