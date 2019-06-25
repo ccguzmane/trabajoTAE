@@ -286,23 +286,23 @@ shinyServer(function(input, output, session){
 
 cargarBarrio <- function(){
   
-  t2014 <- read.csv("./data/Accidentalidad_georreferenciada_2014.csv", encoding = 'UTF-8')
+  t2014 <- read.csv("./data/Accidentalidad_georreferenciada_2014.csv")
   t2014 <- select(t2014,5, 15)
   t2014$FECHA <- substring(t2014$FECHA, 6,10)
   
-  t2015 <- read.csv("./data/Accidentalidad_georreferenciada_2015.csv", encoding = 'UTF-8')
+  t2015 <- read.csv("./data/Accidentalidad_georreferenciada_2015.csv")
   t2015 <- select(t2015,5, 15)
   t2015$FECHA <- substring(t2015$FECHA, 6,10)
   
-  t2016 <- read.csv("./data/Accidentalidad_georreferenciada_2016.csv", encoding = 'UTF-8')
+  t2016 <- read.csv("./data/Accidentalidad_georreferenciada_2016.csv")
   t2016 <- select(t2016,5, 15)
   t2016$FECHA <- substring(t2016$FECHA, 6,10)
   
-  t2017 <- read.csv("./data/Accidentalidad_georreferenciada_2017.csv", encoding = 'UTF-8')
+  t2017 <- read.csv("./data/Accidentalidad_georreferenciada_2017.csv")
   t2017 <- select(t2017,5, 15)
   t2017$FECHA <- substring(t2017$FECHA, 6,10)
   
-  t2018 <- read.csv("./data/Accidentalidad_georreferenciada_2018.csv", encoding = 'UTF-8')
+  t2018 <- read.csv("./data/Accidentalidad_georreferenciada_2018.csv")
   t2018 <- select(t2018,5, 15)
   t2018$FECHA <- substring(t2018$FECHA, 6,10)
   
@@ -336,23 +336,23 @@ cargarBarrio <- function(){
 
 cargarComuna <- function(){
   
-  t2014 <- read.csv("./data/Accidentalidad_georreferenciada_2014.csv", encoding = 'UTF-8' )
+  t2014 <- read.csv("./data/Accidentalidad_georreferenciada_2014.csv")
   t2014 <- select(t2014,5, 16)
   t2014$FECHA <- substring(t2014$FECHA, 6,10)
   
-  t2015 <- read.csv("./data/Accidentalidad_georreferenciada_2015.csv", encoding = 'UTF-8')
+  t2015 <- read.csv("./data/Accidentalidad_georreferenciada_2015.csv")
   t2015 <- select(t2015,5, 16)
   t2015$FECHA <- substring(t2015$FECHA, 6,10)
   
-  t2016 <- read.csv("./data/Accidentalidad_georreferenciada_2016.csv", encoding = 'UTF-8')
+  t2016 <- read.csv("./data/Accidentalidad_georreferenciada_2016.csv")
   t2016 <- select(t2016,5, 16)
   t2016$FECHA <- substring(t2016$FECHA, 6,10)
   
-  t2017 <- read.csv("./data/Accidentalidad_georreferenciada_2017.csv", encoding = 'UTF-8')
+  t2017 <- read.csv("./data/Accidentalidad_georreferenciada_2017.csv")
   t2017 <- select(t2017,5, 16)
   t2017$FECHA <- substring(t2017$FECHA, 6,10)
   
-  t2018 <- read.csv("./data/Accidentalidad_georreferenciada_2018.csv", encoding = 'UTF-8')
+  t2018 <- read.csv("./data/Accidentalidad_georreferenciada_2018.csv")
   t2018 <- select(t2018,5, 16)
   t2018$FECHA <- substring(t2018$FECHA, 6,10)
   

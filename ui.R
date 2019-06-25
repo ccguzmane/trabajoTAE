@@ -27,7 +27,7 @@ shinyUI(
                   tabItems(
                     tabItem(tabName = "acerca",h1("Accidentalidad en Medellín", style = "text-align: center;"),br(),
                             h4("Video introductorio a la aplicación. Se explica el funcionamiento de la aplicación y que métodos se utilizaron para lograr los resultados obtenidos."),br(),
-                            tags$div(align = "center", embed_url("https://www.youtube.com/watch?v=tpYdGgzCW-M"))),
+                            tags$div(align = "center", embed_url("https://youtu.be/5wJpm3GMV7U"))),
                     
                     tabItem(
                       tabName = "predicciones",
