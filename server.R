@@ -65,8 +65,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2018")+
       xlab("Mes")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 11.3", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   
   #Semana
@@ -85,8 +84,7 @@ shinyServer(function(input, output, session){
       ggtitle("Modelo 2018")+
       xlab("Semana")+
       ylab("Accidentes")+
-      theme(axis.text.x = element_text(angle = 90, hjust = 1))+
-      annotate("text", -Inf, Inf, label = "*MSE de 11.3", hjust = 0, vjust = 1)
+      theme(axis.text.x = element_text(angle = 90, hjust = 1))
   })
   
   #DIA
@@ -103,8 +101,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2018")+
       xlab("Día")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 11.3", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   ################# Barrio
   #MES
@@ -122,8 +119,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2018")+
       xlab("Mes")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 11.3", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   #Semana
   barrioPWeek <- read.csv("./data/barrioSemana.csv", colClasses=c("SEMANA"="character"))
@@ -141,8 +137,7 @@ shinyServer(function(input, output, session){
       ggtitle("Modelo 2018")+
       xlab("Semana")+
       ylab("Accidentes")+
-      theme(axis.text.x = element_text(angle = 90, hjust = 1))+
-      annotate("text", -Inf, Inf, label = "*MSE de 11.3", hjust = 0, vjust = 1)
+      theme(axis.text.x = element_text(angle = 90, hjust = 1))
   })
   
   #DIA
@@ -159,8 +154,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2018")+
       xlab("Día")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 11.3", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   ################################################################################################
   #### 2017-2018
@@ -180,8 +174,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2017 - 2018")+
       xlab("Mes")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 12", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   
   #Semana
@@ -200,8 +193,7 @@ shinyServer(function(input, output, session){
       ggtitle("Modelo 2017 - 2018")+
       xlab("Semana")+
       ylab("Accidentes")+
-      theme(axis.text.x = element_text(angle = 90, hjust = 1))+
-      annotate("text", -Inf, Inf, label = "*MSE de 12", hjust = 0, vjust = 1)
+      theme(axis.text.x = element_text(angle = 90, hjust = 1))
   })
   
   #DIA
@@ -218,8 +210,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2017 - 2018")+
       xlab("Día")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 12", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   ################# Barrio
   #MES
@@ -237,8 +228,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2017 - 2018")+
       xlab("Mes")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 12", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   #Semana
   barrioPWeek2 <- read.csv("./data/barrioSemana2.csv", colClasses=c("SEMANA"="character"))
@@ -256,8 +246,7 @@ shinyServer(function(input, output, session){
       ggtitle("Modelo 2017 - 2018")+
       xlab("Semana")+
       ylab("Accidentes")+
-      theme(axis.text.x = element_text(angle = 90, hjust = 1))+
-      annotate("text", -Inf, Inf, label = "*MSE de 12", hjust = 0, vjust = 1)
+      theme(axis.text.x = element_text(angle = 90, hjust = 1))
   })
   
   #DIA
@@ -274,8 +263,7 @@ shinyServer(function(input, output, session){
       geom_point()+
       ggtitle("Modelo 2017 - 2018")+
       xlab("Día")+
-      ylab("Accidentes")+
-      annotate("text", -Inf, Inf, label = "*MSE de 12", hjust = 0, vjust = 1)
+      ylab("Accidentes")
   })
   
   updateSelectizeInput(session, 'selectBarrio',
