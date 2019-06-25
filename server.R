@@ -63,7 +63,7 @@ shinyServer(function(input, output, session){
     ggplot(data=comunas(), aes(x=MES, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2018")+
+      ggtitle("Modelo 2018, MSE 11.3")+
       xlab("Mes")+
       ylab("Accidentes")
   })
@@ -81,7 +81,7 @@ shinyServer(function(input, output, session){
     ggplot(data=comunasWeek(), aes(x=SEMANA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2018")+
+      ggtitle("Modelo 2018, MSE 11.3")+
       xlab("Semana")+
       ylab("Accidentes")+
       theme(axis.text.x = element_text(angle = 90, hjust = 1))
@@ -99,7 +99,7 @@ shinyServer(function(input, output, session){
     ggplot(data=comunasPDay(), aes(x=FECHA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2018")+
+      ggtitle("Modelo 2018, MSE 11.3")+
       xlab("Día")+
       ylab("Accidentes")
   })
@@ -117,7 +117,7 @@ shinyServer(function(input, output, session){
     ggplot(data=barrios(), aes(x=MES, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2018")+
+      ggtitle("Modelo 2018, MSE 11.3")+
       xlab("Mes")+
       ylab("Accidentes")
   })
@@ -134,7 +134,7 @@ shinyServer(function(input, output, session){
     ggplot(data=barriosWeek(), aes(x=SEMANA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2018")+
+      ggtitle("Modelo 2018, MSE 11.3")+
       xlab("Semana")+
       ylab("Accidentes")+
       theme(axis.text.x = element_text(angle = 90, hjust = 1))
@@ -152,7 +152,7 @@ shinyServer(function(input, output, session){
     ggplot(data=barriosPDay(), aes(x=FECHA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2018")+
+      ggtitle("Modelo 2018, MSE 11.3")+
       xlab("Día")+
       ylab("Accidentes")
   })
@@ -172,7 +172,7 @@ shinyServer(function(input, output, session){
     ggplot(data=comunas2(), aes(x=MES, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2017 - 2018")+
+      ggtitle("Modelo 2017 - 2018, MSE 12")+
       xlab("Mes")+
       ylab("Accidentes")
   })
@@ -190,7 +190,7 @@ shinyServer(function(input, output, session){
     ggplot(data=comunasWeek2(), aes(x=SEMANA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2017 - 2018")+
+      ggtitle("Modelo 2017 - 2018, MSE 12")+
       xlab("Semana")+
       ylab("Accidentes")+
       theme(axis.text.x = element_text(angle = 90, hjust = 1))
@@ -208,7 +208,7 @@ shinyServer(function(input, output, session){
     ggplot(data=comunasPDay2(), aes(x=FECHA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2017 - 2018")+
+      ggtitle("Modelo 2017 - 2018, MSE 12")+
       xlab("Día")+
       ylab("Accidentes")
   })
@@ -226,7 +226,7 @@ shinyServer(function(input, output, session){
     ggplot(data=barrios2(), aes(x=MES, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2017 - 2018")+
+      ggtitle("Modelo 2017 - 2018, MSE 12")+
       xlab("Mes")+
       ylab("Accidentes")
   })
@@ -243,7 +243,7 @@ shinyServer(function(input, output, session){
     ggplot(data=barriosWeek2(), aes(x=SEMANA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2017 - 2018")+
+      ggtitle("Modelo 2017 - 2018, MSE 12")+
       xlab("Semana")+
       ylab("Accidentes")+
       theme(axis.text.x = element_text(angle = 90, hjust = 1))
@@ -261,7 +261,7 @@ shinyServer(function(input, output, session){
     ggplot(data=barriosPDay2(), aes(x=FECHA, y=AÑO_2018_PRED, group=1)) +
       geom_line()+
       geom_point()+
-      ggtitle("Modelo 2017 - 2018")+
+      ggtitle("Modelo 2017 - 2018, MSE 12")+
       xlab("Día")+
       ylab("Accidentes")
   })
