@@ -45,7 +45,8 @@ shinyUI(
                           ),
                           radioButtons("tipo", "Selecciona el tipo", c("Mes","Semana","Día"),"Mes"),
                           dateInput("fInicio", "Fecha de inicio", value = "2018-01-01" ,min="2018-01-01", max="2018-12-31" ), 
-                          dateInput("fFin", "Fecha de fin", value="2018-12-31", min="2018-01-01", max="2018-12-31" )
+                          dateInput("fFin", "Fecha de fin", value="2018-12-31", min="2018-01-01", max="2018-12-31" ),
+                          h5("En base al criterio del MSE, se puede considerar la primera gráfica más ajustada a los datos reales")
                         ),
                         
                         # Show a plot of the generated distribution
